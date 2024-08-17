@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="", ATN News
+https://ythls-v3.onrender.com/video/jQ4Wjbz-xNg.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision.svg" group-title="", BanglaVision HD [News Hour Only]
+https://ythls-v3.onrender.com/channel/UCA4y9g_GRdNrZLH_u5LLSdw.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="", Channel I HD
+https://ythls-v3.onrender.com/video/EB8ayfp4jYY.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg" group-title="", Channel 24
+https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/DeshTV2022Logo.svg" group-title="", Desh TV
+https://ythls-v3.onrender.com/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/DBC_News_Logo.svg" group-title="", DBC News
+https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg" group-title="", Ekattor TV HD [News Hour Only]
+https://ythls-v3.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="", Ekhon TV HD
+https://ythls-v3.onrender.com/video/pBs7fqViwB0.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg" group-title="", Independent TV
+https://ythls-v3.onrender.com/video/uaB3hnCucoU.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg" group-title="", Jamuna TV
+https://ythls-v3.onrender.com/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg" group-title="", Jamuna TV [2]
+https://ythls-v3.onrender.com/video/TyIQiNLQzVg.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="", News 24 HD
+https://ythls-v3.onrender.com/video/tIob6iIT8yI.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="", NTV HD
+https://ythls-v3.onrender.com/video/uxl4uCyG6VM.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="", Nexus TV HD
+https://ythls-v3.onrender.com/video/idEy9iLMqzk.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Rtv_bangladesh.svg" group-title="", RTV HD
+https://ythls-v3.onrender.com/video/sv-FHoSpNOk.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="", Somoy TV HD
+https://ythls-v3.onrender.com/video/aTzRun7M-fk.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mohona_tv_Logo.svg" group-title="", Mohona TV HD [News Hour Only]
+https://ythls-v3.onrender.com/channel/UCgofqLA6a9IqfyxPhvn2Onw.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="", Maasranga TV HD [News Hour Only]
+https://ythls-v3.onrender.com/channel/UCHR-p802PibDYG1btNJcOew.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="",  GTV News HD [News Hour Only]
+https://ythls-v3.onrender.com/channel/UCjIi0uZg4h5Ar8gvLDTrGwA.m3u8
