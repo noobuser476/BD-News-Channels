@@ -69,6 +69,9 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg" group-title="JagoBD", BanglaVision HD 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg" group-title="JagoBD", Boishakhi TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg" group-title="JagoBD", Channel I HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 
@@ -83,6 +86,12 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekhon-tv-bd.png" group-title="JagoBD", Ekhon TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg" group-title="JagoBD", Ekushey TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="JagoBD", Green TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png" group-title="JagoBD", Independent TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
