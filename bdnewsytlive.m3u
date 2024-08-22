@@ -38,30 +38,44 @@ https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekhon-tv-bd.png" group-title="Youtube", Ekhon TV HD
 https://ythls-v3.onrender.com/video/pBs7fqViwB0.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekhon-tv-bd.png" group-title="Youtube", Ekhon TV HD [2]
+https://utube.buddyxiptv.com/@ekhontv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png" group-title="Youtube", Independent TV
 https://ythls-v3.onrender.com/video/uaB3hnCucoU.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png" group-title="Youtube", Independent TV [2]
+https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg" group-title="Youtube", Jamuna TV
 https://ythls-v3.onrender.com/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg" group-title="Youtube", Jamuna TV [2]
 https://ythls-v3.onrender.com/video/TyIQiNLQzVg.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg" group-title="Youtube", Jamuna TV [3]
+https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg" group-title="Youtube", News 24 HD
 https://ythls-v3.onrender.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg" group-title="Youtube", News 24 HD [2]
+https://utube.buddyxiptv.com/@news24extra15.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_bd.png" group-title="Youtube", NTV HD
 https://ythls-v3.onrender.com/video/uxl4uCyG6VM.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_bd.png" group-title="Youtube", NTV HD [2]
+https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="Youtube", Nexus TV HD
 https://ythls-v3.onrender.com/video/idEy9iLMqzk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg" group-title="Youtube", RTV HD
 https://ythls-v3.onrender.com/video/sv-FHoSpNOk.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg" group-title="Youtube", RTV HD [2]
+https://utube.buddyxiptv.com/@RtvNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg" group-title="Youtube", Somoy TV HD
 https://ythls-v3.onrender.com/video/aTzRun7M-fk.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg" group-title="Youtube", Somoy TV HD [2]
+https://utube.buddyxiptv.com/@somoynews360.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg" group-title="Youtube", Mohona TV HD [News Hour Only]
 https://ythls-v3.onrender.com/channel/UCgofqLA6a9IqfyxPhvn2Onw.m3u8
