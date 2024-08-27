@@ -85,6 +85,9 @@ https://ythls-v3.onrender.com/channel/UCHR-p802PibDYG1btNJcOew.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/noobuser476/Channel-Logo/main/GTV.jpg" group-title="Youtube",  GTV News HD [News Hour Only]
 https://ythls-v3.onrender.com/channel/UCjIi0uZg4h5Ar8gvLDTrGwA.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg" group-title="Youtube", Somoy TV HD [Test]
+https://anym3u8player.com/youtube.php/id/66cd6f42d5792.m3u8
+
 
 
 
