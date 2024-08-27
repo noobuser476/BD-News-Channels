@@ -1,32 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg" group-title="Youtube", ATN News
-https://ythls-v3.onrender.com/video/PEUPD0LbM6c.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg" group-title="Youtube", ATN News [2]
-https://utube.buddyxiptv.com/@atnnewsltd.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg" group-title="Youtube", BanglaVision HD [News Hour Only]
-https://ythls-v3.onrender.com/channel/UCA4y9g_GRdNrZLH_u5LLSdw.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg" group-title="Youtube", BanglaVision HD [News Hour Only] 2
-https://utube.buddyxiptv.com/@banglavisionlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg" group-title="Youtube", Channel I HD
-https://ythls-v3.onrender.com/video/U1mfg8dqAoo.m3u8
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=U1mfg8dqAoo
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg" group-title="Youtube", Channel I HD [2]
 https://utube.buddyxiptv.com/@channelinews.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg" group-title="Youtube", Channel 24
-https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=HQwoLM-F0LU
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg" group-title="Youtube", Channel 24 [2]
 https://utube.buddyxiptv.com/@channel24digital.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/DESH-TV1.png" group-title="Youtube", Desh TV
-https://ythls-v3.onrender.com/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=CqLiZ0Ui1kg
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/DESH-TV1.png" group-title="Youtube", Desh TV [2]
 https://ythls-v3.onrender.com/video/tF2gjXgrjtQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg" group-title="Youtube", DBC News HD
-https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=p_rx0gebwkc
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg" group-title="Youtube", DBC News HD [2]
 https://utube.buddyxiptv.com/watch?v=Sh66Zurop2U.m3u8
 
@@ -41,12 +31,12 @@ https://ythls-v3.onrender.com/video/pBs7fqViwB0.m3u8
 https://utube.buddyxiptv.com/@ekhontv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png" group-title="Youtube", Independent TV
-https://ythls-v3.onrender.com/video/uaB3hnCucoU.m3u8
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=1YhmjNQlnP8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png" group-title="Youtube", Independent TV [2]
 https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg" group-title="Youtube", Jamuna TV
-https://ythls-v3.onrender.com/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=v44jmdDjU0w
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg" group-title="Youtube", Jamuna TV [2]
 https://ythls-v3.onrender.com/video/TyIQiNLQzVg.m3u8
@@ -54,7 +44,7 @@ https://ythls-v3.onrender.com/video/TyIQiNLQzVg.m3u8
 https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg" group-title="Youtube", News 24 HD
-https://ythls-v3.onrender.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=tIob6iIT8yI
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg" group-title="Youtube", News 24 HD [2]
 https://utube.buddyxiptv.com/@news24extra15.m3u8
 
