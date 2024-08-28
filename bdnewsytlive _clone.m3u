@@ -40,8 +40,8 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=tIob6iIT8yI
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg" group-title="Youtube", News 24 HD [2]
 https://utube.buddyxiptv.com/@news24extra15.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_bd.png" group-title="Youtube", NTV HD
+https://github.com/noobuser476/Channel-Logo/raw/main/TV%20No%20Signal%20Effect%20-%20Please%20Stand%20By.mp4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_bd.png" group-title="Youtube", NTV HD [2]
 https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
 
@@ -57,15 +57,6 @@ https://utube.buddyxiptv.com/@RtvNews.m3u8
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=xEl7I8pN-C0
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg" group-title="Youtube", Somoy TV HD [2]
 https://utube.buddyxiptv.com/@somoynews360.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg" group-title="Youtube", Mohona TV HD [News Hour Only]
-https://ythls-v3.onrender.com/channel/UCgofqLA6a9IqfyxPhvn2Onw.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/maasranga_tv_bd.png" group-title="Youtube", Maasranga TV HD [News Hour Only]
-https://ythls-v3.onrender.com/channel/UCHR-p802PibDYG1btNJcOew.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/noobuser476/Channel-Logo/main/GTV.jpg" group-title="Youtube",  GTV News HD [News Hour Only]
-https://ythls-v3.onrender.com/channel/UCjIi0uZg4h5Ar8gvLDTrGwA.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg" group-title="Youtube", Somoy TV HD [Test]
 https://anym3u8player.com/youtube.php/id/66cd6f42d5792.m3u8
