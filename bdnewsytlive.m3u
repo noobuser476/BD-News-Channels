@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg" group-title="Youtube", ATN News
-https://ythls-v3.onrender.com/video/PEUPD0LbM6c.m3u8
+https://ythls-v3.onrender.com/channel/UCbgcYEdMsuypG2NJ-znBp3w.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg" group-title="Youtube", ATN News [2]
 https://utube.buddyxiptv.com/@atnnewsltd.m3u8
 
@@ -59,7 +59,7 @@ https://ythls-v3.onrender.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
 https://utube.buddyxiptv.com/@news24extra15.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_bd.png" group-title="Youtube", NTV HD
-https://ythls-v3.onrender.com/video/uxl4uCyG6VM.m3u8
+https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_bd.png" group-title="Youtube", NTV HD [2]
 https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
 
