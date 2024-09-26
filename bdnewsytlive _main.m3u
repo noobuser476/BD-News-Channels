@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/YouTube_2024.svg/640px-YouTube_2024.svg.png" group-title="Youtube", Youtube Channels -->
+https://github.com/noobuser476/Channel-Logo/raw/refs/heads/main/TV%20No%20Signal%20Effect%20-%20Please%20Stand%20By.mp4
+
+
+
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg" group-title="Youtube", Channel I HD
 https://ythls-v3.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
@@ -46,6 +52,9 @@ https://ythls-v3.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/themes/jagobd-wp/assets/img/logo.png" group-title="JagoBD", JagoBD Channels -->
+https://github.com/noobuser476/Channel-Logo/raw/refs/heads/main/TV%20No%20Signal%20Effect%20-%20Please%20Stand%20By.mp4
 
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg" group-title="JagoBD", Asian TV
